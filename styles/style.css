@@ -1,0 +1,262 @@
+
+* {
+
+}
+
+.inicio-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cuandoDonde-firstSection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cuandoDonde-secondSection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(/img/cuandoDonde-flores-laterales.png);
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.cuandoDonde-secondSection-padres-text1 {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    /* padding: 4px; */
+
+}
+
+.cuandoDonde-secondSection-padres-text2 {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cuandoDonde-date {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cuandoDonde-place {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cuandoDonde-place-svg {
+    width: 48px;
+    height: 48px;
+}
+
+.cuandoDonde-div {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cuandoDonde-thirdSection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cuandoDonde-thirdSection-option1 {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.cuandoDonde-thirdSection-option1-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
+.cuandoDonde-thirdSection-option1-div img {
+    width: 28px;
+    height: 28px;
+}
+
+.cuandoDonde-thirdSection-option2 {
+    display: flex;
+    justify-content: flex-start;
+}
+.cuandoDonde-thirdSection-option2-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
+.cuandoDonde-thirdSection-option2-div img {
+    width: 28px;
+    height: 28px;
+}
+
+.cuandoDonde-thirdSection-option3 {
+    display: flex;
+    justify-content: flex-start;
+}
+.cuandoDonde-thirdSection-option3-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
+.cuandoDonde-thirdSection-option3-div img {
+    width: 28px;
+    height: 28px;
+}
+
+.confirmacion-dress {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.confirmacion-dress-title {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.confirmacion-dress-images {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.confirmacion-dress-images img {
+    width: 80px;
+    height: 80px;
+}
+
+.confirmacion-dress-images p {
+    font-size: x-small;
+}
+
+.confirmacion-dress-images-mod {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.confirmacion-asistencia {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.confirmacion-asistencia-textos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background-image: url(/img/confirmacion-mancha1.png);
+    background-position-x: right;
+    background-position-y: center;
+    background-repeat: no-repeat;
+}
+
+.confirmacion-asistencia-form {
+    text-align: center;
+    color: white;
+    background-color: #d28b97;
+    background-image: url(/img/confirmacion-manchas.png);
+    background-position-y: center;
+    padding: 12px;
+    margin-right: 4%;
+    margin-left: 4%;
+    border-radius: 12px;
+
+}
+
+.form-nombre {
+    width: 95%;
+}
+
+.form-boton {
+    color: white;
+    background-color: #d28b97;
+    border: 1px white solid;
+    border-radius: 12px;
+    padding: 8px;
+    width: 45%;
+    margin: 12px;
+}
+
+.confirmacion-div {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nosotros-subtitle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.nosotros-footer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.mesaRegalos-liverpool {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mesaRegalos-subtitle {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mesaRegalos-info {
+    padding-left: 4px;
+    padding-right: 4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mesaRegalos-banner {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mesaRegalos-nuestraUnion {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mesaRegalos-despedida {
+    display: flex;
+    justify-content: space-between;
+}
+
+footer {
+    border-top: #d28b97 solid 1px;
+    text-align: center;
+    font-size: small;
+    padding: 8px;
+}
